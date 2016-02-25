@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<COMPONENTS>
+  <COMPONENT>
+    <NAME>DC_SIM_TEST_KESI</NAME>
+    <VENDOR>C:\dc_simulations\DC_SIM_2_prj\networks</VENDOR>
+    <DESCRIPTION>untitled1</DESCRIPTION>
+    <LIBRARY>Sub-networks</LIBRARY>
+    <PLACEMENT>LAYOUT</PLACEMENT>
+    <AVAILABILITY>Available</AVAILABILITY>
+    <URL>N/A</URL>
+    <LICENSE>N/A</LICENSE>
+  </COMPONENT>
+</COMPONENTS>
